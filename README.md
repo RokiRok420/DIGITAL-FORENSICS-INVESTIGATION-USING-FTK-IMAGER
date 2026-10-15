@@ -162,7 +162,6 @@ Once acquisition is complete, load the image into FTK Imager for examination.
 6. Expand the evidence tree to inspect its contents.
 7. Confirm that the expected partitions, directories, and files are accessible.
 
-**Screenshot:** Capture the loaded forensic image and its expanded evidence tree.
 
 ## 10. Step 7: File and Folder Examination
 
@@ -187,7 +186,8 @@ During this stage, inspect:
 5. Record relevant findings and their locations within the evidence.
 6. Export files for further examination only when necessary and permitted.
 
-**Screenshot:** Capture a directory listing that shows file names and available metadata.
+**Screenshot:** 
+<img width="1024" height="734" alt="6" src="https://github.com/user-attachments/assets/e3ffb75d-488c-4473-aeb1-d874841bc607" />
 
 ## 11. Step 8: Metadata and Timestamp Analysis
 
@@ -208,7 +208,6 @@ Timestamps should be interpreted carefully because time zones, file-system behav
 
 A timestamp alone does not prove when a person created, accessed, or modified a file.
 
-**Screenshot:** Capture the available metadata or timestamp details for a selected file.
 
 ## 12. Step 9: Deleted File Examination
 
@@ -227,7 +226,7 @@ Depending on the file system and acquisition method, FTK Imager may display dele
 
 Not every deleted file can be recovered. Data may have been overwritten, trimmed, encrypted, or excluded from the acquired evidence.
 
-**Screenshot:** Capture a deleted-file entry or recovered artifact if one is present. If none is found, document that result rather than inventing a finding.
+
 
 ## 13. Step 10: Documentation and Evidence Reporting
 
